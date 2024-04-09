@@ -1,5 +1,5 @@
-# AVR Remotly Controlled Station
-This project is a Remotly Controlled Station where user can controll the AVR station from PC using commaned over the UART communication protocol, user can exchange data between PC and the station such as current temperature or controll several peripherals such as buzzer or servo motor.
+# AVR Remotely Controlled Station
+This project is a Remotly Controlled Station where the user can control the AVR station from a PC using command over the UART communication protocol, The user can exchange data between the PC and the station such as current temperature or control several peripherals such as a buzzer, or servo motor.
 
 
 
